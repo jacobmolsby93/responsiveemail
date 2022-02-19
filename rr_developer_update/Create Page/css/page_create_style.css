@@ -1,0 +1,216 @@
+/*************start*************/
+img {
+    max-width: 100%;
+    display: inline-block;
+}
+
+body {
+    font-family: "liberation-sans", sans-serif;
+    position: relative;
+    background-color: #f5f5f5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0px;
+    padding: 0px;
+    font-weight: normal;
+    line-height: 100%;
+}
+
+a,
+a:hover,
+a:focus {
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+/***********************************/
+/*********  Create Page  ***********/
+/***********************************/
+
+.createpage_area{
+	margin-top: 52px;
+    display: block;
+    background: #fff;
+}
+.createpage_area_title {
+	display: block;
+	padding: 17px 0px 10px;
+}
+.createpage_area_title h4 {
+	font-size: 17px;
+	line-height: 120%;
+	color: #000;
+	font-weight: 600;
+	padding-left: 14px;
+}
+.createpage_heading {
+	padding-top: 1%;
+	background: #f5f5f5;
+	display: block;
+	text-align: center;
+}
+.createpage_heading_inner {
+	max-width: 483px;
+	width: 100%;
+	display: block;
+	margin: 0 auto;
+}
+.createpage_heading_inner img {
+	margin-top: 20px;
+	margin-bottom: 25px !important;
+}
+.createpage_heading_inner h1{
+	font-size: 42.5px;
+	line-height: 120%;
+	color: #000;
+	font-weight: 400;
+	display: block;
+}
+.createpage_heading_inner p{
+	max-width: 500px;
+	margin: 0 auto;
+	font-size: 18px;
+	color: #000;
+	line-height: 120%;
+	font-weight: 400;
+	display: block;
+	padding-top: 30px;
+	padding-bottom: 24px;
+}
+.heading_inner_item{
+	padding: 0px;
+	margin: 0px;
+	text-align: left;
+}
+.heading_inner_item li{
+	list-style-type: none;
+	display: block;
+	padding: 1.5px 0px;
+}
+.heading_inner_item li a{
+	font-size: 14px;
+	color: #000;
+	line-height: 120%;
+	font-weight: 400;
+	padding-left: 15px;
+	position: relative;
+}
+.heading_inner_item li:last-child {
+	padding-top: 33px;
+}
+.heading_inner_item li a:before{
+	content: "";
+	position: absolute;
+	width: 6px;
+	height: 6px;
+	border-radius: 50%;
+	background: #5ea6e1;
+	top: 8px;
+	left: 0px;
+}
+.heading_inner_item li:nth-child(9){
+	font-size: 16px;
+	color: #000;
+	line-height: 120%;
+	font-weight: 400;
+	
+}
+.createpage_heading_inner button {
+	max-width: 328px;
+	width: 59%;
+	height: 48px;
+	background: #272525;
+	font-size: 17px;
+	color: #fff;
+	line-height: 120%;
+	transition: 0.3s;
+	margin-top: 20px;
+	margin-bottom: 70px;
+	border: none;
+}
+.createpage_heading_inner>button:hover,
+.createpage_heading_inner>button:focus{
+	outline: none;
+	color: #fff;
+    background: #00a8e5;
+    border: 1px solid#00a8e5;
+    transition: 0.3s;
+	border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*************end*************/

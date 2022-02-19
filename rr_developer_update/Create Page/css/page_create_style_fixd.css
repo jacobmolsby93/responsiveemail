@@ -1,0 +1,78 @@
+
+/****@import url('https://fonts.googleapis.com/css?family=Rambla:400,700|Saira+Condensed:300,400,500,700,900');***/
+
+/*************start*************/
+img {
+	max-width:100%;
+	display:inline-block;
+}
+body {
+	font-family: "liberation-sans",sans-serif;
+	position: relative;
+}
+h1, h2, h3, h4, h5, h6, p{
+	margin:0px;
+	padding:0px;
+	font-weight: normal;
+	line-height: 100%;
+}
+a, a:hover, a:focus{
+	text-decoration:none;
+	transition: 0.3s;
+}
+
+
+/**************************************/
+/***********  Header Start  ***********/
+/**************************************/
+
+
+.mobile{
+	width: 100%;
+	display: none;
+}
+.mobile_left, .mobile_middle, .mobile_right{
+	max-width: 32.33%;
+	width: 100%;
+	display: inline-block;
+	text-align: left;
+}
+.mobile_middle{
+	text-align: center;
+}
+.mobile_right{
+	text-align: right;
+}
+.mobile_left a{
+	text-decoration: none;
+	font-size: 20px;
+	color: #fff;
+	line-height: 120%;
+}
+.mobile_left a i{
+	background: #000;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+.mobile_middle img{
+	text-align: center;
+}
+.mobile_right a{
+	text-decoration: none;
+	font-size: 20px;
+	color: #fff;
+	line-height: 120%;
+}
+.mobile_right a i{
+	background: #000;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+

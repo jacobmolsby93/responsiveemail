@@ -1,0 +1,121 @@
+@media only screen and (max-width: 1440px),
+only screen and (max-device-width: 1440px) {}
+
+@media only screen and (max-width: 1200px),
+only screen and (max-device-width: 1200px) {
+
+    .nav_logo_d {
+        max-width: 27.5%;
+        width: 100%;
+    }
+
+    .manu_item2 {
+        font-weight: 400 !important;
+    }
+
+    .pc_footer_right ul li a {
+        font-size: 10.5px;
+        padding: 0 13px;
+    }
+
+    .container.w-100 {
+        max-width: 960px;
+    }
+
+}
+
+@media only screen and (max-width: 1024px),
+only screen and (max-device-width: 1024px) {}
+
+
+@media only screen and (max-width: 991px),
+only screen and (max-device-width: 991px) {
+
+
+    .input_area_inner button {
+        margin-top: 60px;
+    }
+
+    .container.w-100 {
+        max-width: 720px;
+    }
+}
+
+@media only screen and (max-width: 768px),
+only screen and (max-device-width: 768px) {
+
+    .input_area_inner button {
+        margin-top: 46px;
+    }
+
+    .container.w-100 {
+        max-width: 540px;
+    }
+
+
+}
+
+@media only screen and (max-width: 768px) {
+    .account_copright_inner {
+        display: block;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
+
+@media only screen and (max-width: 580px),
+only screen and (max-device-width: 580px) {
+    .container.w-100 {
+        max-width: 100%;
+    }
+
+
+
+}
+
+@media only screen and (max-width: 520px),
+only screen and (max-device-width: 520px) {}
+
+
+@media only screen and (max-width: 480px),
+only screen and (max-device-width: 480px) {
+    .account_list_inner ul li {
+
+        border-bottom: none;
+    }
+
+    .account_top_title {
+        padding: 10px 0px 10px;
+
+    }
+
+    .account_list_inner ul li:last-child {
+        padding-bottom: 20px;
+    }
+
+    .account_feedback_list {
+        padding-top: 20px;
+    }
+
+    .account_list_area {
+        padding-top: 0px;
+
+    }
+
+    .account_top_title h4 {
+        padding-left: 0px;
+    }
+
+    .account_list_inner ul li {
+        margin-left: 5px !important;
+        padding: 13px 0 13px !important;
+    }
+
+ 
+
+}
+
+
+@media only screen and (max-width: 375px),
+only screen and (max-device-width: 375px) {}
